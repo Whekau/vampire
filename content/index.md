@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Hallo dies ist ein Test für eine PnP Wiki Seite
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Wenn ihr das lesen könnt hat alles geklappt :D
