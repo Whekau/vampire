@@ -1,3 +1,3 @@
 Ananas und Schinken
 
-![[BikerBar.jpg]]
+![[BikerBar.jpg]()]
