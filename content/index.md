@@ -1,5 +1,4 @@
 ---
-title: Hallo dies ist ein Test für eine PnP Wiki Seite
+title: Home
 ---
 
-Wenn ihr das lesen könnt hat alles geklappt :D
