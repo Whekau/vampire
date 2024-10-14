@@ -15,4 +15,3 @@ title: Vampir-Wiki
 	- [[Autarkis]]
 	- [[Camarilla]]
 	- [[Werwölfe]]
-![[transparent.png]]
