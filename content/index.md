@@ -5,7 +5,7 @@ title: Vampir-Wiki
 - Session-Notes:
 	- [[Session 2 - Ambrosia]]
 	- [[Session 1 - New Blood]]
-- Maps:
+- Locations:
 	- [[Naperville Map]]
 - PCs:
 	- [[Bismuth]]
