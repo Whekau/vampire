@@ -2,7 +2,7 @@
 | --------- | ------------------------- |
 | Clan:     | Ventrue                   |
 | Beruf:    | Büroangestellter          |
-| Erzeuger: | Truman Starkweather       |
+| Erzeuger: | [[Truman Starkweather]]   |
 | Bonds:    | Eltern<br>Christian Smith |
 
 | Bestie | Disziplin                         |
