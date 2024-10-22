@@ -1,5 +1,5 @@
 ---
-title: Vampir-Wiki
+title: Vampire
 ---
 **Inhaltsverzeichnis**
 - Session-Notes:
