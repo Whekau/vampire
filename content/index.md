@@ -2,14 +2,8 @@
 title: Vampire
 ---
 **Inhaltsverzeichnis**
-- Session-Notes:
-	- [[Session 2 - Ambrosia]]
-	- [[Session 1 - New Blood]]
 - Locations:
 	- [[Naperville Map]]
-- PCs:
-	- [[Bismuth]]
-	- [[Michael]]
 - NPCs:
 	- Anarchen:
 		- [[Jackie]]
@@ -22,3 +16,9 @@ title: Vampire
 	- Werwölfe:
 		- [[Gefangener Werwolf]]
 		- [[Unbekannter Werwolf]]
+- PCs:
+	- [[Bismuth]]
+	- [[Michael]]
+- Session-Notes:
+	- [[Session 1 - New Blood]]
+	- - [[Session 2 - Ambrosia]]
