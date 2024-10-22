@@ -21,4 +21,4 @@ title: Vampire
 	- [[Michael]]
 - Session-Notes:
 	- [[Session 1 - New Blood]]
-	- - [[Session 2 - Ambrosia]]
+	- [[Session 2 - Ambrosia]]
