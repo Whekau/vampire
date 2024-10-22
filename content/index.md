@@ -15,8 +15,6 @@ title: Vampir-Wiki
 		- [[Jackie]]
 		- [[Marcus Dean]]
 		- [[Sage]]
-	- Autarkis:
-		- /
 	- Camarilla:
 		- [[Dorothy Bathory]]
 		- [[Tom]]
