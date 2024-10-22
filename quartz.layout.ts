@@ -20,7 +20,7 @@ afterBody: [
       categoryId: 'DIC_kwDOM-bu_s4CjmfG',
     }
   }),
-],,
+],
   footer: Component.Footer({
    // links: {
      // GitHub: "https://github.com/jackyzha0/quartz",
