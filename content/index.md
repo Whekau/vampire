@@ -11,7 +11,16 @@ title: Vampir-Wiki
 	- [[Bismuth]]
 	- [[Michael]]
 - NPCs:
-	- [[Anarchen]]
-	- [[Autarkis]]
-	- [[Camarilla]]
-	- [[Werwölfe]]
+	- Anarchen:
+		- [[Jackie]]
+		- [[Marcus Dean]]
+		- [[Sage]]
+	- Autarkis:
+		- /
+	- Camarilla:
+		- [[Dorothy Bathory]]
+		- [[Tom]]
+		- [[Truman Starkweather]]
+	- Werwölfe:
+		- [[Gefangener Werwolf]]
+		- [[Unbekannter Werwolf]]
