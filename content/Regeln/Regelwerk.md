@@ -37,4 +37,5 @@ Würfel 1W6 zu Beginn jeder Nacht und vergleiche das Ergebnis mit deinem…
 	* Ist das Ergebnis niedriger als dein Bestienwert, verringere diesen um eins.
 
 
+
 *Inspiriert von [Dark Necessities](https://arktostideborn.itch.io/dark-necessities) und [V5](https://www.paradoxinteractive.com/games/world-of-darkness/discover-world-of-darkness/vampire-the-masquerade).*
