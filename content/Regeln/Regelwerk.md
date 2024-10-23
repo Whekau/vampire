@@ -1,4 +1,4 @@
-## Grundregeln
+### Grundregeln
 
 Wenn du etwas *Riskantes* oder *Ungewisses* tust, wirf
 + **+1W6 (Normaler Würfel)** *standardmäßig*
@@ -14,23 +14,23 @@ Bei einer 1 hast du etwas nicht oder nur knapp geschafft, bei einer 6 hast du vo
 **Forcieren:** Jeder Wurf, bei dem es Sinn macht, kann neu gewürfelt werden. Vor jedem Neuwürfeln wird ein Hungerwurf durchgeführt.
 
   
-## Werte
+### Werte
 
-### Verletzung
+**Verletzung**
 Dein Verletzungswert steht für deine körperliche Versehrtheit. Es gibt drei Verletzungsgrade: leicht, mittel und schwer. Wenn du Schaden erleidest streiche, abhängig vom Verletzungsgrad, ein Kästchen durch. Wenn das zweite Kästchen des selben Verletzungsgrades gestrichen wird, entferne beide und streiche ein Kästchen des nächst höheren Grades. Wenn das zweite Kästchen vom Verletzungsgrad „schwer“ gestrichen wird, fällst du in eine Starre und dein Charakter ist, abhängig von der Dauer der Starre, temporär nicht mehr spielbar. Werden im Zustand der Starre weitere Verletzungen erlitten, stirbt der Charakter endgültig. Du hast die Möglichkeit dich mithilfe deines Blutes zu heilen. Führe dafür einen Hungerwurf aus und verschiebe das am weitesten links liegende gestrichene Kästchen um eine Stufe nach links (leichte Verletzungen werden einfach entfernt).
 
-### Hunger
+**Hunger**
 Dein Hungerwert steht für dein Verlangen nach Blut. Erreicht er den Wert 6, verlierst du vorübergehend die Kontrolle über deinen Charakter. Verringere deinen Hungerwert um die Menge an Blut, die du trinkst. Immer wenn du eine Disziplin anwendest, dich mit Hilfe deines Blutes heilst oder einen Wurf forcierst, führe einen Hungerwurf durch.  
 Hungerwurf: Wirf 1W6 und vergleiche das Ergebnis mit deinem aktuellen Hungerwert. Ist das Ergebnis höher, erhöht sich dein Hungerwert um eins.    
 
-### Bestie
+**Bestie**
 Dein Bestienwert steht für deinen Verlust an Menschlichkeit und dem wachsenden Einfluss der Bestie in deinem Blut. Wenn der Wert 6 erreicht, verlierst du dauerhaft die Kontrolle über deinen Charakter. Ein höherer Wert bedeutet aber auch, dass du höherstufige Disziplinen deiner Blutlinie einsetzen kannst. Wenn ein Dunkler Würfel ein höheres Ergebnis als alle anderen Würfel erzielt und über deinem aktuellen Bestienwert liegt, erhöhe deinen Bestienwert um eins.
 
-### Disziplinen
+**Disziplinen**
 Die Vampirfähigkeiten deiner Blutlinie werden als Disziplinen bezeichnet. Abhängig von deinem aktuellen Bestienwert stehen dir Disziplinen der Stufe 1 (von Beginn an), Stufe 2 (ab einem Bestienwert von 3) und Stufe 3 (ab einem Bestienwert von 5) zur Verfügung. Disziplinen können jederzeit genutzt werden, erfordern aber einen Hungerwurf bevor der Effekt abgehandelt wird. Wird eine Disziplin für eine Probe genutzt, füge den Dunklen Würfel für diesen Wurf hinzu.
 
   
-Würfel 1W6 zu Beginn jeder Nacht und vergleiche das Ergebnis mit deinem…
+Würfel 1W6 **zu Beginn jeder Nacht** und vergleiche das Ergebnis mit deinem…
 * Hungerwert:
 	* Ist das Ergebnis höher als dein Hungerwert, erhöhe diesen um eins.
 * Bestienwert, falls er in der letzten Nacht nicht erhöht wurde:
