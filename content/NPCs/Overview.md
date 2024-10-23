@@ -1,0 +1,11 @@
+- Anarchen:
+	- [[Jackie]]
+	- [[Marcus Dean]]
+	- [[Sage]]
+- Camarilla:
+	- [[Dorothy Bathory]]
+	- [[Tom]]
+	- [[Truman Starkweather]]
+- Werwölfe:
+	- [[Gefangener Werwolf]]
+	- [[Unbekannter Werwolf]]
