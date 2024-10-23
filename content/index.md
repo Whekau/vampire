@@ -19,6 +19,9 @@ title: Vampire
 - PCs:
 	- [[Bismuth]]
 	- [[Michael]]
+* Regeln:
+	* [[Charakterbogen]]
+	* [[Regelwerk]]
 - Session-Notes:
 	- [[Session 1 - New Blood]]
 	- [[Session 2 - Ambrosia]]
