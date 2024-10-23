@@ -1,3 +1,8 @@
+PCs:
+- [[Bismuth]]
+- [[Michael]]
+
+Ablauf:
 - [[Bismuth]] wird in einen Blutsband mit Dorothy Bathory gelockt
 - [[Bismuth]] und [[Michael]] sollen das Blutpräparat "Ambrosia" besorgen und die Quelle finden
 - "Ambrosia" wird in der Nähe vom "[[Naperville Map|Velveteen Bunny]]" von "Lilith" verkauft

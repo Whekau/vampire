@@ -1,3 +1,8 @@
+PCs:
+- [[Bismuth]]
+- [[Michael]]
+
+Ablauf:
 - Erwachen in einer Kühlkammer
 - [[Marcus Dean]] will [[Bismuth]] und [[Michael]] zum [[Naperville Map|gebrochenen Rad]] fahren
 - die zweite Inquisition verfolgt das Auto
