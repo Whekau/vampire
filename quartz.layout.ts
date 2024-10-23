@@ -46,7 +46,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
 	title: "Inhaltsverzeichnis",
-	folderDefaultState: "open",
 	})),
   ],
   right: [
@@ -68,7 +67,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
 	title: "Inhaltsverzeichnis",
-	folderDefaultState: "open",
 	})),
   ],
   right: [],
