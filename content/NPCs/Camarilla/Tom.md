@@ -1,3 +1,3 @@
 - Clan: Nosferatu
-- gesehen im [[Naperville Map|Hotel Armitage]]
+- gesehen im [[Hotel Armitage]]
 - Informationsbeschaffer

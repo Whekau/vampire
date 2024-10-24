@@ -1,7 +1,7 @@
 | Name:     | Bismuth Sorge                       |
 | --------- | ----------------------------------- |
 | Clan:     | Nosferatu                           |
-| Beruf:    | Buchhändler                         |
+| Beruf:    | [[Buchladen\|Buchhändler]]          |
 | Erzeuger: | ?<br>Blutsband: [[Dorothy Bathory]] |
 | Bonds:    | Maria Pennyweather                  |
 

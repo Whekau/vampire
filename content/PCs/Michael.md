@@ -1,9 +1,9 @@
-| Name:     | Michael Smith             |
-| --------- | ------------------------- |
-| Clan:     | Ventrue                   |
-| Beruf:    | Büroangestellter          |
-| Erzeuger: | [[Truman Starkweather]]   |
-| Bonds:    | Eltern<br>Christian Smith |
+| Name:     | Michael Smith              |
+| --------- | -------------------------- |
+| Clan:     | Ventrue                    |
+| Beruf:    | [[Büro\|Büroangestellter]] |
+| Erzeuger: | [[Truman Starkweather]]    |
+| Bonds:    | Eltern<br>Christian Smith  |
 
 | Bestie | Disziplin                         |
 | ------ | --------------------------------- |

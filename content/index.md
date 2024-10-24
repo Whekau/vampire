@@ -3,7 +3,15 @@ title: Vampire
 ---
 **Inhaltsverzeichnis**
 - Locations:
+	- [[Bathory Anwesen]]
+	- [[Buchladen]]
+	- [[Büro]]
+	- [[Das gebrochene Rad]]
+	- [[Hotel Armitage]]
+	- [[Lagerhalle (Ambrosia)]]
 	- [[Naperville Map]]
+	- [[The Velveteen Bunny]]
+	- [[The Violet Club]]
 - NPCs:
 	- Anarchen:
 		- [[Jackie]]
