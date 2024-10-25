@@ -4,6 +4,7 @@ Wenn du etwas *Riskantes* oder *Ungewisses* tust, wirf
 + **+1W6 (Normaler Würfel)** *standardmäßig*
 + **+1W6 (Normaler Würfel)**, wenn die Aktion von deinem *Beruf* abgedeckt wird  
 + **+1W6 (Dunkler Würfel)**, wenn du eine *Disziplin* zur Hilfe nimmst
+
 Der höchste Wurf zeigt deinen Erfolgsgrad an.
 Bei einer 1 hast du etwas nicht oder nur knapp geschafft, bei einer 6 hast du vollen Erfolg.  
   
