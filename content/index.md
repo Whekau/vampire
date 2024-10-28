@@ -1,5 +1,5 @@
 ---
-title: Vampiree
+title: Vampire
 ---
 **Inhaltsverzeichnis**
 - Locations:
