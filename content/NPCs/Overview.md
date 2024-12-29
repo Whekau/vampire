@@ -8,4 +8,4 @@
 	- [[Truman Starkweather]]
 - Werwölfe:
 	- [[Gefangener Werwolf]]
-	- [[Unbekannter Werwolf]]
+	- [[Frank]]

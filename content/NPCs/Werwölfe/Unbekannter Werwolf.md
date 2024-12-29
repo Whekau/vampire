@@ -1,2 +1,0 @@
-- hat nach dem [[Gefangener Werwolf|gefangenen Werwolf]] gesucht
-- fährt einen weißen Van (rostig)

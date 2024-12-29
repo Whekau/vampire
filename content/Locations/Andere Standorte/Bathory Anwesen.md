@@ -1,1 +1,1 @@
-* hier wohnt [[Dorothy Bathory]]
+* hier wohnte [[Dorothy Bathory]]

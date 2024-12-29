@@ -14,6 +14,8 @@ Bei einer 1 hast du etwas nicht oder nur knapp geschafft, bei einer 6 hast du vo
 
 **Forcieren:** Jeder Wurf, bei dem es Sinn macht, kann neu gewürfelt werden. Vor jedem Neuwürfeln wird ein Hungerwurf durchgeführt.
 
+**Dunkler Würfel:** Wenn ein Dunkler Würfel ein höheres Ergebnis als alle anderen Würfel erzielt und über deinem aktuellen Bestienwert liegt, erhöhe deinen Bestienwert um eins. Außerdem wird der Erfolg zu einem "brutalen Erfolg" das Ergebnis fällt je nach Kontext brutal aus.
+
   
 ### Werte
 

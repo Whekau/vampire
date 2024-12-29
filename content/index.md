@@ -26,7 +26,7 @@ title: Vampire
 		- [[Truman Starkweather]]
 	- Werwölfe:
 		- [[Gefangener Werwolf]]
-		- [[Unbekannter Werwolf]]
+		- [[Frank]]
 - PCs:
 	- [[Bismuth]]
 	- [[Michael]]
