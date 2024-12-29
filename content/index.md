@@ -38,6 +38,6 @@ title: Vampire
 	* [[Charakterbogen]]
 	* [[Regelwerk]]
 - Session-Notes:
-	- [[Session 1 - New Blood]]
+	- [[Session 1 - Neues Blut]]
 	- [[Session 2 - Ambrosia]]
 	- [[Session 3 - Der süße Regen]]
