@@ -2,4 +2,5 @@
 - ist besessen von "Galconda" und dem Gedanken wieder in der Sonne wandeln zu können
 - hat mit [[Bismuth]] ein Blutsband geschlossen, ohne dass er davon wusste.
 - wohnt im [[Bathory Anwesen]]
+- Fomori
 - verstorben

@@ -8,6 +8,7 @@ title: Vampire
 		- [[Das gebrochene Rad]]
 		- [[Lagerhalle (Ambrosia)]]
 		- [[The Violet Club]]
+		- [[Tipsy Cow]]
 	* Downtown:
 		* [[Buchladen]]
 		* [[Büro]]
@@ -24,6 +25,9 @@ title: Vampire
 		- [[Dorothy Bathory]]
 		- [[Tom]]
 		- [[Truman Starkweather]]
+		- [[Cara]]
+	* Menschen:
+		* [[Christian Smith]]
 	- Werwölfe:
 		- [[Gefangener Werwolf]]
 		- [[Frank]]
@@ -36,3 +40,4 @@ title: Vampire
 - Session-Notes:
 	- [[Session 1 - New Blood]]
 	- [[Session 2 - Ambrosia]]
+	- [[Session 3 - Der süße Regen]]
