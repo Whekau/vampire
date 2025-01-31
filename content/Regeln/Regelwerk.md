@@ -6,11 +6,11 @@ Wenn du etwas *Riskantes* oder *Ungewisses* tust, wirf
 + **+1W6 (Dunkler Würfel)**, wenn du eine *Disziplin* zur Hilfe nimmst
 
 Der höchste Wurf zeigt deinen Erfolgsgrad an.
-Bei einer 1 hast du etwas nicht oder nur knapp geschafft, bei einer 6 hast du vollen Erfolg.  
+Bei einer 1 - 3 hast du etwas nicht geschafft, ab einer 4 hast du Erfolg.  
   
-**Kooperieren:** Jeder, der kooperiert, würfelt ebenfalls. Das höchste von einem Spieler gewürfelte Ergebnis bestimmt den Erfolgsgrad.
+**Kooperieren:** Jeder, der kooperiert, steuert dem Spieler, der die Probe ausführt, einen 1W6 (Normaler Würfel) bei.
 
-**Konkurrieren:** Jeder, der konkurriert, würfelt ebenfalls. Wer das höchste Ergebnis erzielt, gewinnt. Bei einem Gleichstand wird erneut gewürfelt.
+**Konkurrieren:** Jeder, der konkurriert, würfelt ebenfalls. Wer das höchste Ergebnis erzielt, gewinnt. Bei einem Gleichstand gewinnt die Person mit dem größeren Würfelpool.
 
 **Forcieren:** Jeder Wurf, bei dem es Sinn macht, kann neu gewürfelt werden. Vor jedem Neuwürfeln wird ein Hungerwurf durchgeführt.
 
@@ -20,7 +20,7 @@ Bei einer 1 hast du etwas nicht oder nur knapp geschafft, bei einer 6 hast du vo
 ### Werte
 
 **Verletzung**
-Dein Verletzungswert steht für deine körperliche Versehrtheit. Es gibt drei Verletzungsgrade: leicht, mittel und schwer. Wenn du Schaden erleidest streiche, abhängig vom Verletzungsgrad, ein Kästchen durch. Wenn das zweite Kästchen des selben Verletzungsgrades gestrichen wird, entferne beide und streiche ein Kästchen des nächst höheren Grades. Wenn das zweite Kästchen vom Verletzungsgrad „schwer“ gestrichen wird, fällst du in eine Starre und dein Charakter ist, abhängig von der Dauer der Starre, temporär nicht mehr spielbar. Werden im Zustand der Starre weitere Verletzungen erlitten, stirbt der Charakter endgültig. Du hast die Möglichkeit dich mithilfe deines Blutes zu heilen. Führe dafür einen Hungerwurf aus und verschiebe das am weitesten links liegende gestrichene Kästchen um eine Stufe nach links (leichte Verletzungen werden einfach entfernt).
+Dein Verletzungswert steht für deine körperliche Versehrtheit. Es gibt drei Verletzungsgrade: leicht, mittel und schwer. Wenn du Schaden erleidest streiche, abhängig vom Verletzungsgrad, ein Kästchen durch. Wenn das zweite Kästchen des selben Verletzungsgrades gestrichen wird, entferne beide und streiche ein Kästchen des nächst höheren Grades. Wenn das zweite Kästchen vom Verletzungsgrad „schwer“ gestrichen wird, fällst du in eine Starre und dein Charakter ist temporär nicht mehr spielbar. Werden im Zustand der Starre weitere Verletzungen erlitten, stirbt der Charakter endgültig. Du hast die Möglichkeit dich mithilfe deines Blutes zu heilen. Führe dafür einen Hungerwurf aus und verschiebe das am weitesten links liegende gestrichene Kästchen um eine Stufe nach links (leichte Verletzungen werden einfach entfernt).
 
 **Hunger**
 Dein Hungerwert steht für dein Verlangen nach Blut. Erreicht er den Wert 6, verlierst du vorübergehend die Kontrolle über deinen Charakter. Verringere deinen Hungerwert um die Menge an Blut, die du trinkst. Immer wenn du eine Disziplin anwendest, dich mit Hilfe deines Blutes heilst oder einen Wurf forcierst, führe einen Hungerwurf durch.  
