@@ -1,1 +1,0 @@
-* Inhaber: [[Marcus Dean]]

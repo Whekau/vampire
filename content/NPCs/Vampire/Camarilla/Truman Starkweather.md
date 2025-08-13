@@ -1,5 +1,0 @@
-- Clan: Ventrue
-- scheint gute Verbindungen zu anderen Camarilla-Mitgliedern zu haben
-- plant ein baldiges Treffen von Camarilla-Mitgliedern
-- arbeitet hauptsächlich im [[Büro]]
-- verstorben

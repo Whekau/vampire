@@ -1,2 +1,0 @@
-* Werwolf-Bar
-* Live-Musik

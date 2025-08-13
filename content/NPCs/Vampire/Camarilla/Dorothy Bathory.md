@@ -1,6 +1,0 @@
-- Clan: Nosferatu
-- ist besessen von "Galconda" und dem Gedanken wieder in der Sonne wandeln zu können
-- hat mit [[Bismuth Sorge]] ein Blutsband geschlossen, ohne dass er davon wusste.
-- wohnte im [[Bathory Anwesen]]
-- Fomori
-- verstorben

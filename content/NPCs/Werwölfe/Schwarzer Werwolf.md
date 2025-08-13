@@ -1,2 +1,0 @@
-
-* tötete [[Marcus Dean]]

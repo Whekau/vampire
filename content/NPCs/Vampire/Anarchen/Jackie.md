@@ -1,2 +1,0 @@
-- Clan: Brujah
-- verstorben
