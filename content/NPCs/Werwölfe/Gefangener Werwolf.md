@@ -1,0 +1,3 @@
+- wurde von drei Vampiren gefangen genommen
+- sein Blut war die Spezialzutat für Ambrosia
+- ist mit dem [[Frank]] entkommen
