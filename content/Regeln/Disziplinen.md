@@ -81,7 +81,7 @@
 | 1     | Prowess         | Verstärke Faust-Angriffe.<br>Siehe [[Waffen]].<br>Gültig für eine Szene.                                       |
 | 2     | Uncanny Grip    | Strengthens their grip on most surfaces, allowing them to climb or hang unsupported.<br>Gültig für eine Szene. |
 | 2     | Brutal Feed     | Turn feeding into a violent and messy affair that only lasts seconds to Slake the user's Hunger.               |
-| 3     | Fist of Caine   | Angriff mit der Faust fügt eine schwere Verletzung zu.<br>Gültig für eine Aktion.                              |
+| 3     | Fist of Caine   | Angriff mit der Faust fügt eine schwere Verletzung zu.<br>Siehe [[Waffen]].<br>Gültig für eine Aktion.         |
 ### Animalism
 | Stufe | Disziplin        | Info                                                                                                                                                                                                       |
 | ----- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
