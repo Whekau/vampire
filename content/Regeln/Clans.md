@@ -60,7 +60,7 @@ Ein nomadischer Clan von Meistern der Irreführung. Diese Schurken und Illusioni
 
 **Disziplinen:** Animalism, Obfuscate, Presence
 
-**Bane:** Können pro Woche nur einmal am gleichen Ort schlafen sonst erhalten sie eine leichte Verletzung. Der nächste Schlafplatz muss mindestens 1km entfernt sein.
+**Bane:** Können pro Woche nur einmal am gleichen Ort schlafen sonst erhalten sie eine leichte Verletzung. Der nächste Schlafplatz muss mindestens 1 km entfernt sein.
 
 ### Salubri
 In den modernen Nächten gibt es nur wenige von ihnen; im Gegensatz zu anderen Clans werden sie nicht aus einer Laune heraus aufgenommen. Stattdessen werden sie von ihrem Herrn sorgfältig ausgewählt, um eine Aufgabe zu erfüllen, denn sie sind wissbegierig und verfügen über die nötige Ausdauer, um Schwierigkeiten zu überstehen.
