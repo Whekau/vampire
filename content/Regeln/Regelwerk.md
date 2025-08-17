@@ -3,10 +3,10 @@
 Wenn du etwas *Riskantes* oder *Ungewisses* tust, wirf
 + **+1W6** *standardmäßig*
 + **+1W6**, wenn die Aktion von deinem *Beruf* abgedeckt wird  
-+ für weitere Boni siehe [[Disziplinen]]
++ +1W6 von bestimmten [[Disziplinen]]
 
 Der höchste Wurf zeigt deinen Erfolgsgrad an.
-Bei einer 1 - 3 hast du etwas nicht geschafft, ab einer 4 hast du Erfolg.  
+Ab einer 4 hast du Erfolg.  
 
 
 ### Kampf-Initiative
@@ -47,7 +47,7 @@ Dein Hungerwert steht für dein Verlangen nach Blut. Erreicht er den Wert 6, ver
 **Hungerwurf:** Wirf 1W6 und vergleiche das Ergebnis mit deinem aktuellen Hungerwert. Ist das Ergebnis höher, erhöht sich dein Hungerwert um eins.
 
 **Disziplinen**
-Die Vampirfähigkeiten deines Clans werden als Disziplinen bezeichnet. Abhängig von deinem aktuellen Hungerwert stehen dir Disziplinen der Stufe 1 (von Beginn an), Stufe 2 (ab einem Hungerwert von 3) und Stufe 3 (ab einem Hungerwert von 5) zur Verfügung. Disziplinen können jederzeit genutzt werden, erfordern bei der Nutzung aber einen Hungerwurf.
+Die Vampirfähigkeiten deines Clans werden als Disziplinen bezeichnet. Abhängig von deinem aktuellen Hungerwert stehen dir Disziplinen der Stufe 1 (von Beginn an), Stufe 2 (ab einem Hungerwert von 3) und Stufe 3 (ab einem Hungerwert von 5) zur Verfügung. Disziplinen können jederzeit genutzt werden, erfordern bei der Nutzung aber einen Hungerwurf. Jeder Charakter startet mit drei Stufe 1, zwei Stufe 2 und einer Stufe 3 Disziplin (aus dem ihm verfügbaren Disziplinkategorien abhängig vom Clan). Es kann maximal +1W6 durch Disziplinen pro Probe beigesteuert werden (das Nutzen von mehreren Disziplinen für dieselbe Probe gibt trotzdem nur +1W6).
 
 
 

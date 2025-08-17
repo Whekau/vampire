@@ -11,7 +11,7 @@ Kämpfer gegen das System, Rebellen gegen die Ungerechtigkeit, Kleinkriminelle, 
 
 **Disziplinen:** Celerity, Potence, Presence
 
-**Bane:** Verfallen leicht in Raserei (bei physischen/psychischem Schaden wirf 1W6, bei 1-3 wird deine nächste Aktion von Wut gesteuert)
+**Bane:** Verfallen leicht in Raserei (bei physischen/psychischem Schaden wirf 1W6, bei 1-3 wird deine nächste Aktion von Wut gesteuert).
 
 ### Gangrel
 Der Clan, der seiner inneren Bestie am nächsten steht, von wilden Soldaten bis hin zu volkstümlichen Reisenden und Freigeistern, von Bewohnern des Großstadtdschungels bis hin zu Haien in Vorstandsetagen.
@@ -46,14 +46,14 @@ die umbenannten Anhänger von Set, denen die Camarilla die Aufnahme verweigert u
 
 **Disziplinen:** Obfuscate, Presence, Protean
 
-**Bane:** Verabscheuen direktes Licht jeglichen Urspungs (Würfe sind nur noch bei einer 5-6 erfolgreich solange direktem Licht ausgesetzt und wenn eine Disziplin genutzt wird)
+**Bane:** Verabscheuen direktes Licht jeglichen Urspungs (Würfe sind nur noch ab einer 5 erfolgreich solange direktem Licht ausgesetzt) Zum Beispiel: Sonnenlicht, helles künstliches Flutlicht, das direkt ins Gesicht scheint (z. B. Polizeischeinwerfer, Bühnenlicht), Räume mit grellem, sterilem Neonlicht, ohne Schatten/Versteckmöglichkeiten.
 
 ### Nosferatu
 Für immer von einer übernatürlichen Abscheulichkeit befallen, verstecken sie sich im Dunkeln als Geheimnisträger, Informationsbeschaffer, Hacker, schwer fassbare Vollstrecker, oft mit einer Verbindung zu Ratten und Ausgestoßenen.
 
 **Disziplinen:** Animalism, Obfuscate, Potence
 
-**Bane:** Entwickeln ein abstoßendes Äußerliches (bei sozialen Proben außer Einschüchtern ist nur eine 5 oder 6 ein Erfolg)
+**Bane:** Entwickeln ein abstoßendes Äußerliches (bei sozialen Proben außer Einschüchtern ist ein Erfolg nur noch ab einer 5 gültig)
 
 ### Ravnos
 Ein nomadischer Clan von Meistern der Irreführung. Diese Schurken und Illusionisten ziehen es vor, ihre Reißzähne nicht für etwas zu zeigen, das sie mit subtileren Methoden erlangen können.
@@ -74,7 +74,7 @@ Sie suchen nach Emotionen, Romantik, Grausamkeit, Schönheit... alles, was sie a
 
 **Disziplinen:** Auspex, Celerity, Presence
 
-**Bane:** Besessen von Schönheit und zerrissen wenn diese fehlt (wenn sie sich in einer unästhetischen Umgebung befinden, ist ein Erfolg nur noch ab einer 5 gültig wenn eine Disziplin genutzt wird)
+**Bane:** Besessen von Schönheit und zerrissen wenn diese fehlt (wenn sie sich in einer unästhetischen Umgebung befinden, ist ein Erfolg nur noch ab einer 5 gültig). Zum Beispiel: Abwasserkanäle, Müllhalden, heruntergekommene Lagerhallen, Schlachthäuser.
 
 ### Tremere
 Gelehrte und Berater des Okkulten; schwer getroffen von der Zweiten Inquisition, hüten die Hexenmeister ihre Geheimnisse der Zauberei, horten und suchen nach Wissen.
@@ -95,7 +95,7 @@ Vampirische Aristokratie, Hüter der Traditionen und eine Säule der Camarilla, 
 
 **Disziplinen:** Dominate, Fortitude, Presence
 
-**Bane:** Sehr wählerisch was den Geschmack von Blut angeht (würfel 1W6 ab einer 4 ist das gewünschte Blut vorhanden)
+**Bane:** Sehr wählerisch was den Geschmack von Blut angeht (wirf 1W6 beim Betreten eines Gebiets, ab einer 4 ist das gewünschte Blut vorhanden)
 
 
 ### ohne Clan:
@@ -103,7 +103,7 @@ Vampirische Aristokratie, Hüter der Traditionen und eine Säule der Camarilla, 
 ### Caitiff
 Clan- und fluchlos. Das einzige Merkmal, das die Caitiff gemeinsam haben, ist, dass sie den Fluch der anderen Blutsverwandten nicht geerbt haben und sich von den Angehörigen einer echten Linie ausgestoßen fühlen.
 
-**Disziplinen:** freie Wahl von zwei Kategorien (nur Stufe 1 und 2)
+**Disziplinen:** freie Wahl von zwei Disziplin-Kategorien (nur Stufe 1 und 2)
 
 **Bane:** /
 
