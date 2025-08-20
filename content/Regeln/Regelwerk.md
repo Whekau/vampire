@@ -29,10 +29,10 @@ Zu Beginn des Spiels startet jeder Spieler mit einer Glücksmünze.
 
 ### Werte
 
-**Beruf**
-Der Beruf des Charakters kann einen W6 zu einer Probe beisteuern, falls die Expertise des Berufs in Frage kommt. Berufe können auch im Kampf einen W6 zu einer Probe beisteuern, wenn sie zur Aktion passen.
+**[[Beruf]]**
+Ein Beruf umfasst zwei Skills. Wenn diese Skills bei einer Probe helfen könnten wird ein W6 zu dieser Probe beigesteuert.
 
-**Bonds**
+**[[Bonds]]**
 Bonds sind Menschen, die dem Charakter nahestehen. Ein Charakter kann ein bis drei Bonds gleichzeitig besitzen.
 
 **Verletzung**
@@ -46,7 +46,7 @@ Dein Verletzungswert steht für deine körperliche Versehrtheit. Es gibt drei Ve
 Dein Hungerwert steht für dein Verlangen nach Blut. Erreicht er den Wert 6, verlierst du vorübergehend die Kontrolle über deinen Charakter und saugst die nächste Person leer die du findest. Verringere deinen Hungerwert um die Menge an Blut, die du trinkst (1-2 ohne, dass der Mensch stirbt; 3-4, der Mensch liegt im Sterben; 5, der Mensch stirbt). Immer wenn du eine Disziplin anwendest oder dich mit Hilfe deines Blutes heilst führe einen Hungerwurf durch. Zu Beginn jeder Nacht führe ebenfalls einen Hungerwurf durch.
 **Hungerwurf:** Wirf 1W6 und vergleiche das Ergebnis mit deinem aktuellen Hungerwert. Ist das Ergebnis höher, erhöht sich dein Hungerwert um eins.
 
-**Disziplinen**
+**[[Disziplinen]]**
 Die Vampirfähigkeiten deines Clans werden als Disziplinen bezeichnet. Abhängig von deinem aktuellen Hungerwert stehen dir Disziplinen der Stufe 1 (von Beginn an), Stufe 2 (ab einem Hungerwert von 3) und Stufe 3 (ab einem Hungerwert von 5) zur Verfügung. Disziplinen können jederzeit genutzt werden, erfordern bei der Nutzung aber einen Hungerwurf. Jeder Charakter startet mit drei Stufe 1, zwei Stufe 2 und einer Stufe 3 Disziplin (aus dem ihm verfügbaren Disziplinkategorien abhängig vom Clan). Es kann maximal +1W6 durch Disziplinen pro Probe beigesteuert werden (das Nutzen von mehreren Disziplinen für dieselbe Probe gibt trotzdem nur +1W6).
 
 
