@@ -3,7 +3,7 @@
 Wenn du etwas *Riskantes* oder *Ungewisses* tust, wirf
 + **+1W6** *standardmäßig*
 + **+1W6**, wenn die Aktion von deinem *Beruf* abgedeckt wird  
-+ +1W6 von bestimmten [[Disziplinen]]
++ **+1W6** durch bestimmte [[Disziplinen]]
 
 Der höchste Wurf zeigt deinen Erfolgsgrad an.
 Ab einer 4 hast du Erfolg.  

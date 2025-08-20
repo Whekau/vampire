@@ -38,14 +38,14 @@
 | 2     | Blink            | Closes the distance as if teleporting.<br>Gültig für eine Aktion.                                |
 | 3     | Lightning Strike | Attack with lightning speed. Get another attack for the round.<br>Einmal pro Kampfrunde nutzbar. |
 ### Protean
-| Stufe | Disziplin             | Info                                                                                                                                                    |
-| ----- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Feral Weapons         | Elongate the user's nails into claws or elongate their fangs.<br>Siehe [[Waffen]].<br>Gültig für eine Szene.                                            |
-| 1     | Weight of the Feather | The user can make themselves almost weightless.<br>Gültig für eine Szene.                                                                               |
-| 1     | Serpent's Kiss        | When biting someone, inject your own vitae into them.                                                                                                   |
-| 2     | Shapechange           | Change into an animal with a similar body mass.<br>Gültig für eine Szene.                                                                               |
-| 2     | Visceral Absorption   | Draw in the remains of blood and body to the vampire to clean a scene. (Verringere deinen Hunger abhängig von der Blutmenge, falls das Blut frisch ist) |
-| 3     | Mist Form             | Turn into a cloud of mist.<br>Gültig für eine Szene.                                                                                                    |
+| Stufe | Disziplin             | Info                                                                                                         |
+| ----- | --------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1     | Feral Weapons         | Elongate the user's nails into claws or elongate their fangs.<br>Siehe [[Waffen]].<br>Gültig für eine Szene. |
+| 1     | Weight of the Feather | The user can make themselves almost weightless.<br>Gültig für eine Szene.                                    |
+| 1     | Serpent's Kiss        | When biting someone, inject your own vitae into them.                                                        |
+| 2     | Shapechange           | Change into an animal with a similar body mass.<br>Gültig für eine Szene.                                    |
+| 2     | Visceral Absorption   | Draw in the remains of blood and body to the vampire to clean a scene.                                       |
+| 3     | Mist Form             | Turn into a cloud of mist.<br>Gültig für eine Szene.                                                         |
 ### Presence
 | Stufe | Disziplin           | Info                                                                                                                                                                                                                      |
 | ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,10 +78,10 @@
 | ----- | --------------- | -------------------------------------------------------------------------------------------------------------- |
 | 1     | Fluent Strength | Strength boost. +1W6<br>Gültig für eine Aktion.                                                                |
 | 1     | Soaring Leap    | Leap higher and further than usual.<br>Gültig für eine Aktion.                                                 |
-| 1     | Prowess         | Verstärke Faust-Angriffe.<br>Siehe [[Waffen]].<br>Gültig für eine Szene.                                       |
+| 1     | Prowess         | Verstärkter Faust-Angriff.<br>Siehe [[Waffen]].<br>Gültig für eine Szene.                                      |
 | 2     | Uncanny Grip    | Strengthens their grip on most surfaces, allowing them to climb or hang unsupported.<br>Gültig für eine Szene. |
 | 2     | Brutal Feed     | Turn feeding into a violent and messy affair that only lasts seconds to Slake the user's Hunger.               |
-| 3     | Fist of Caine   | Angriff mit der Faust fügt eine schwere Verletzung zu.<br>Siehe [[Waffen]].<br>Gültig für eine Aktion.         |
+| 3     | Fist of Caine   | Vernichtender Faust-Angriff.<br>Siehe [[Waffen]].<br>Gültig für eine Aktion.                                   |
 ### Animalism
 | Stufe | Disziplin        | Info                                                                                                                                                                                                       |
 | ----- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
