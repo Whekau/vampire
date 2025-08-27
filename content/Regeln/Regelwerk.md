@@ -12,9 +12,9 @@ Ab einer 4 hast du Erfolg.
 ### Kampf-Initiative
 
 Zu Beginn des Kampfes entscheidet jeder Spieler:
-- **Früh handeln:** Du agierst vor den Gegnern, kannst aber später **nicht mehr verteidigen**.
+- **Früh handeln:** Du agierst in jeder Runde vor den Gegnern, kannst aber bei einem Angriff auf dich **nicht mehr verteidigen**.
     
-- **Spät handeln:** Du agierst nach den Gegnern, kannst aber bei einem Angriff auf dich **verteidigen.** Wer sich für spätes Handeln entscheidet, kann in dieser Runde **entweder verteidigen oder eine Aktion ausführen** – nicht beides. Wird verteidigt, verfällt die eigene Aktion.
+- **Spät handeln:** Du agierst in jeder Runde nach den Gegnern, kannst aber bei einem Angriff auf dich **verteidigen.** Wer sich für spätes Handeln entscheidet, kann in jeder Runde **entweder verteidigen oder eine Aktion ausführen** – nicht beides. Wird verteidigt, verfällt die eigene Aktion.
 
 **Verteidigen:**  
 Der Spieler würfelt ebenfalls. Wer das höchste Ergebnis erzielt, gewinnt. Bei einem Gleichstand gewinnt der Charakter mit dem größeren Würfelpool. Bei Gleichstand und dem gleichen Würfelpool wird erneut gewürfelt bis eine Seite gewinnt.
