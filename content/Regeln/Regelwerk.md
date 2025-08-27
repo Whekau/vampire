@@ -11,7 +11,7 @@ Ab einer 4 hast du Erfolg.
 
 ### Kampf-Initiative
 
-Zu Beginn jeder Runde entscheidet jeder Spieler:
+Zu Beginn des Kampfes entscheidet jeder Spieler:
 - **Früh handeln:** Du agierst vor den Gegnern, kannst aber später **nicht mehr verteidigen**.
     
 - **Spät handeln:** Du agierst nach den Gegnern, kannst aber bei einem Angriff auf dich **verteidigen.** Wer sich für spätes Handeln entscheidet, kann in dieser Runde **entweder verteidigen oder eine Aktion ausführen** – nicht beides. Wird verteidigt, verfällt die eigene Aktion.
@@ -22,7 +22,7 @@ Der Spieler würfelt ebenfalls. Wer das höchste Ergebnis erzielt, gewinnt. Bei 
 
 ### Glücksmünzen
 
-Zu Beginn des Spiels startet jeder Spieler mit einer Glücksmünze.
+Zu Beginn eines Szenarios startet jeder Spieler mit einer Glücksmünze.
 
 **Glücksmünzen** können einmalig eingesetzt werden, um **einen einzelnen W6 eines eigenen Wurfs neu zu würfeln**. Führe einen Hungerwurf durch.
 
