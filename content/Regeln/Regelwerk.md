@@ -43,7 +43,7 @@ Dein Verletzungswert steht für deine körperliche Versehrtheit. Es gibt drei Ve
 
 
 **Hunger**
-Dein Hungerwert steht für dein Verlangen nach Blut. Erreicht er den Wert 6, verlierst du vorübergehend die Kontrolle über deinen Charakter und saugst die nächste Person leer die du findest. Verringere deinen Hungerwert um die Menge an Blut, die du trinkst (1-2 ohne, dass der Mensch stirbt; 3-4, der Mensch liegt im Sterben; 5, der Mensch stirbt). Immer wenn du eine Disziplin anwendest oder dich mit Hilfe deines Blutes heilst führe einen Hungerwurf durch. Zu Beginn jeder Nacht führe ebenfalls einen Hungerwurf durch.
+Dein Hungerwert steht für dein Verlangen nach Blut. Erreicht er den Wert 6, verlierst du vorübergehend die Kontrolle über deinen Charakter und saugst die nächste Person leer die du findest. Verringere deinen Hungerwert um die Menge an Blut, die du trinkst (1-2 ohne, dass der Mensch stirbt; 3-4, der Mensch liegt im Sterben; 5, der Mensch stirbt). Dein Hungerwert kann nicht unter 1 fallen. Immer wenn du eine Disziplin anwendest oder dich mit Hilfe deines Blutes heilst führe einen Hungerwurf durch. Zu Beginn jeder Nacht führe ebenfalls einen Hungerwurf durch.
 **Hungerwurf:** Wirf 1W6 und vergleiche das Ergebnis mit deinem aktuellen Hungerwert. Ist das Ergebnis höher, erhöht sich dein Hungerwert um eins.
 
 **[[Disziplinen]]**
