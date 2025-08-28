@@ -39,7 +39,7 @@ Bonds sind Menschen, die dem Charakter nahestehen. Ein Charakter kann ein bis dr
 Dein Verletzungswert steht für deine körperliche Versehrtheit. Es gibt drei Verletzungsgrade: leicht, mittel und schwer. Wenn du Schaden erleidest streiche, abhängig vom Verletzungsgrad, ein Kästchen durch. Wenn das zweite Kästchen des selben Verletzungsgrades gestrichen wird, entferne beide und streiche ein Kästchen des nächst höheren Grades. Wenn das zweite Kästchen vom Verletzungsgrad „schwer“ gestrichen wird, fällst du in eine Starre und dein Charakter ist temporär nicht mehr spielbar. Werden im Zustand der Starre weitere Verletzungen erlitten, stirbt der Charakter endgültig.
 **Heilung durch Blut:** Du kannst dich mit Hilfe deines Blutes heilen. Führe dafür einen **Hungerwurf** durch und verschiebe das **am weitesten links liegende gestrichene Kästchen um eine Stufe nach links** (leichte Verletzungen werden dabei einfach entfernt).
 - **Im Kampf:** Du kannst nur **leichte und mittlere Verletzungen** heilen.
-- **Außerhalb des Kampfes:** Du kannst auch **schwere Verletzungen** heilen, allerdings erfordert dies **mehr Zeit und Konzentration**.
+- **Außerhalb des Kampfes:** Du kannst auch **schwere Verletzungen** heilen.
 
 
 **Hunger**
