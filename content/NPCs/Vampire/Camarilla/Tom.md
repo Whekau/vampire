@@ -1,0 +1,4 @@
+- Clan: Nosferatu
+- gesehen im [[Hotel Armitage]]
+- Informationsbeschaffer
+- verstorben

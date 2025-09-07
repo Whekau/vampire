@@ -1,0 +1,4 @@
+- Clan: Ventrue
+- hat eine große Domäne in [[Naperville|Naperville]]
+- ihm gehört der Nachtclub [[The Velveteen Bunny]]
+- verstorben
